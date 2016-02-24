@@ -52,20 +52,13 @@ If you make a pull request, you'll be added to this 'team'. From there you can c
 
 ```r
 library(tmap)
-```
-
-```
-## Warning: package 'tmap' was built under R version 3.2.3
-```
-
-```r
 b <- bb("Leeds")
 tm_tiles <- read_osm(b)
 tm_shape(tm_tiles) +
   tm_raster()
 ```
 
-![](README_files/figure-html/unnamed-chunk-1-1.png)\
+![](README_files/figure-html/unnamed-chunk-1-1.png)
 
 ## Part 4: Useful resources
 
