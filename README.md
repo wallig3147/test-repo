@@ -67,3 +67,6 @@ tm_shape(tm_tiles) +
 
 ## References
 
+Visser, Marco D., Sean M. McMahon, Cory Merow, Philip M. Dixon, Sydne Record, and Eelke Jongejans. 2015. “Speeding Up Ecological and Evolutionary Computations in R; Essentials of High Performance Computing for Biologists.” Edited by Francis Ouellette. PLOS Computational Biology 11 (3): e1004140. doi:10.1371/journal.pcbi.1004140.
+
+Wickham, Hadley. 2015. R Packages. O’Reilly Media, Inc.
