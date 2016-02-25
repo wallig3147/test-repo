@@ -9,6 +9,7 @@ plot(data.frame(x, y, z))
 # ... Add your lines here
 
 ## Wally
+par(ask=T)
 xf =c(y,2+y,x/20+0.5)
 yf = c(z,z,y/2-2)
 plot(xf,yf)
